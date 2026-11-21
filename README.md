@@ -1,3 +1,3 @@
 # bhavya-demo
-This is my first Git Repository
-Author - Bhavya Sinha
+This is my first Git Repository.
+Author - Bhavya Sinha.
